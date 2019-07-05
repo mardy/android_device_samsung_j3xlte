@@ -13,7 +13,7 @@ bin/ext_data.sh
 bin/ext_kill.sh
 bin/inputfreq.sh
 bin/recoveryfreq.sh
-bin/IPSecService
+#bin/IPSecService
 bin/ddexe
 bin/connfwexe
 bin/wlandutservice
